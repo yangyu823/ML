@@ -6,4 +6,5 @@
     * https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html
     
 2.  `KNN Algorithm`
-    *
+    * Find proper `K` value to get the best estimation
+    * `cross validation` is the balance point to find good `K` value
